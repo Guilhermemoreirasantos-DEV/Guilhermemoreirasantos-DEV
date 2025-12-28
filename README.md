@@ -16,10 +16,11 @@ Busco sempre escrever código limpo, escalável e seguindo boas práticas.
       alt="LinkedIn"
       title="Meu LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    /> <img 
+    /> 
+    <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GUILHERMEMOREIRASANTOS-DEV?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Guilhermemoreirasantos-DEV?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     <a href="https://github.com/Guilhermemoreirasantos-DEV?tab=followers">
         <img 
@@ -92,11 +93,6 @@ Busco sempre escrever código limpo, escalável e seguindo boas práticas.
 <br/>
 <br/>
 
-
-
-
----
-
 ### 📊 Estatísticas
 
 <p>
@@ -112,7 +108,7 @@ Busco sempre escrever código limpo, escalável e seguindo boas práticas.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermemoreirasantos-DEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermemoreirasantos-DEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
